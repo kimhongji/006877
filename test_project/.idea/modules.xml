@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goticks.iml" filepath="$PROJECT_DIR$/.idea/modules/goticks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goticks-build.iml" filepath="$PROJECT_DIR$/.idea/modules/goticks-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ds.iml" filepath="$PROJECT_DIR$/.idea/modules/ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ds-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ds-build.iml" />
     </modules>
   </component>
 </project>
